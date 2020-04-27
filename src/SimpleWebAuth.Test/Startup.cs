@@ -40,7 +40,7 @@ namespace SimpleWebAuth.Test
 
         private List<string> GetRoutesWithNoAuth()
         {
-            List<string> routesWithNoAuth = new List<string>() { "swagger" };
+            List<string> routesWithNoAuth = new List<string>();
             
             Assembly asm = Assembly.GetExecutingAssembly();
             List<MethodInfo> anonymousRoutes = asm.GetTypes()

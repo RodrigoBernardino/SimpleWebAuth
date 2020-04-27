@@ -1,5 +1,5 @@
 # SimpleWebAuth
-This is an authentication project that use JWT Tokens for .NET Framework Web API and MVC projects.
+This is an authentication project that use JWT Tokens for .NET Framework Web API and MVC projects. A future improvement is to expand this project to allow other types of authentication (not only JWT tokens).
 
 .NET Core version coming soon!
 

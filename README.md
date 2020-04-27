@@ -3,7 +3,7 @@ This is an authentication project that use JWT Tokens for .NET Framework Web API
 
 .NET Core version coming soon!
 
-## Instalation
+## Installation
 This project will be added to NuGet gallery soon. For now, download this solution and add its project to your target solution.
 
 ## How to Use
